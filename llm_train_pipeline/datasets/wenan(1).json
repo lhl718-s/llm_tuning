@@ -1,0 +1,386 @@
+[
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天和男朋友分手了，心里特别难过。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：不说永远，在每个瞬间。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天发年终奖了，特别开心！"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：小写生活，大写爱。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "最近天气不太好，总是下雨，心情也有点低落。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：撑伞也是雨中人。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天翻照片时，发现了一些旧回忆，有点感慨。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：隐藏在照片里的碎碎念。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "最近感觉世界有点冷漠，不知道什么时候能再见到老朋友。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：人间荒蛮，再见，在哪见。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天过得很平淡，但也挺满足的。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：恰到好处，描述今天。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "最近心情不太好，连喝奶茶也觉得没那么开心了。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：奶茶不该入愁肠。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天收到朋友的礼物，很感动，希望生活多一点这样的温暖。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：渴望温柔，渴望热泪盈眶。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天画了一幅画，感觉自己好像捕捉到了春天的气息。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：一笔青云，满纸春成。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天出门看到很多美好的风景，感觉生活很幸运。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：都是风景，幸会。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天在日落时分捡到了一片很美的树叶，感觉像是捡到了一束光。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：捡到一束光，日落时还给太阳。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "我是一个慢热的人，喜欢安静，但我知道无论往哪走，都是在向前。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：慢热喜静，往哪走，都是往前走。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天发现生活中有很多小确幸，感觉生活真的很可爱。"
+            },
+            {
+                "role": "assistant",
+                "content": "生活的可爱，到生活里爱。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                    "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天觉得平凡的日子也很浪漫，只要心里有爱。"
+            },
+            {
+                "role": "assistant",
+                "content": "快乐与平凡最浪漫。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天觉得四季都很普通，但因为有人陪伴，冷暖都变得有意义。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：四季很普通，冷暖都是因为有回应。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天觉得没必要追求完美，做自己喜欢的事就好。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：没有人规定一朵花，必须长成向日葵或玫瑰。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天看书的时候，风把一页吹开了，感觉很惬意。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：风吹哪页读哪页。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天回忆起过去的时光，觉得昨天已经回不来了。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：绝版的昨天。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天下雨，风很大，感觉有点慌乱。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：其实雨不大，是风搞得紧张。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天发现很多人随着时间都疏远了，有点感慨。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：季节轮换，很多人把很多人忘了。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天和朋友聊天，希望她能多听我说说心里话。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：在意我的话，就在意我的话。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天在阳光下走了一段路，感觉阳光真的很治愈。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：阳光果然是最好的浪漫。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天决定以后做事更随性一点，其实也没那么多人在看。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：大胆一点，你没有那么多观众。"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是一个文案助手，你的任务是根据用户输入的情感状态，生成一条相文案"
+            },
+            {
+                "role": "user",
+                "content": "今天希望生活能一直简单纯粹，一路走向春光。"
+            },
+            {
+                "role": "assistant",
+                "content": "文案：心无褶皱，行至春光。"
+            }
+        ]
+    }
+]
