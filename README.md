@@ -1,2 +1,3 @@
 # llm_tuning
-llm的微调训练
+llm的SFT和RL(GRPO)：参数高效微调，使用Unsloth加速推理
+
